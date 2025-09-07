@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "SampleFlow",
+    "subtitle": "Built with Zara",
+    "description": "SampleFlow is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://945237c1a8ad44de910675e6ce0e95d4-vazw.vercel.app",
+    "splashImageUrl": "https://945237c1a8ad44de910675e6ce0e95d4-vazw.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://945237c1a8ad44de910675e6ce0e95d4-vazw.vercel.app/image.png",
+    "tagline": "SampleFlow",
+    "screenshotUrls": [
+      "https://945237c1a8ad44de910675e6ce0e95d4-vazw.vercel.app/screenshot.png",
+      "https://945237c1a8ad44de910675e6ce0e95d4-vazw.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://945237c1a8ad44de910675e6ce0e95d4-vazw.vercel.app/api/webhook"
+  }
+}
